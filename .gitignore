@@ -1,5 +1,6 @@
-# Personal exclusions
+8# Personal exclusions
 executables/
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
