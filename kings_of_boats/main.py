@@ -1,7 +1,14 @@
 # Read the image
 
-# Parse the data
 
+#    Preprocessing of the Image
+#    Text Localization
+#    Character Segmentation
+#    Character Recognition
+#    Post Processing
+
+
+# Parse the data - OSEF for now
 
 def whoami():
     iam = "I Am Blue Ajah"
