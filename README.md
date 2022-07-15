@@ -8,6 +8,12 @@ Procedure draft:
 - Go to sea: `conda activate sea`
 - Update conda: `conda update -n base -c defaults conda`
 - Install pytest: `conda install pytest`
+- Install Tesseract: https://launchpad.net/~alex-p/+archive/ubuntu/tesseract-ocr-devel
+
 
 Some random doc:
 - On Tesseract: https://nanonets.com/blog/ocr-with-tesseract/
+
+Dependencies:
+- Tesseract v5.1.0
+- python 3.8

@@ -1,5 +1,7 @@
-# Read the image
+from PIL import Image
+import pytesseract
 
+# Read the image
 
 #    Preprocessing of the Image
 #    Text Localization
@@ -17,3 +19,5 @@ def whoami():
 if __name__ == "__main__":
     print("Hello World")
     print(whoami())
+    image = "/home/smourre/Documents/Work/Projects/kings_of_boats/kings_of_boats/test.png"
+    print(pytesseract.image_to_string(Image.open(image)))
