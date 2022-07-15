@@ -1,3 +1,8 @@
+# Read the image
+
+# Parse the data
+
+
 def whoami():
     iam = "I Am Blue Ajah"
     return iam

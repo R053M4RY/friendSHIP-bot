@@ -8,3 +8,6 @@ Procedure draft:
 - Go to sea: `conda activate sea`
 - Update conda: `conda update -n base -c defaults conda`
 - Install pytest: `conda install pytest`
+
+Some random doc:
+- On Tesseract: https://nanonets.com/blog/ocr-with-tesseract/
