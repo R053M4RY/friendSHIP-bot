@@ -19,5 +19,5 @@ def whoami():
 if __name__ == "__main__":
     print("Hello World")
     print(whoami())
-    image = "/home/smourre/Documents/Work/Projects/kings_of_boats/kings_of_boats/test.png"
+    image = "/home/smourre/Documents/Work/Projects/kings_of_boats/kings_of_boats/kc_test.jpg"
     print(pytesseract.image_to_string(Image.open(image)))
