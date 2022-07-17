@@ -14,8 +14,8 @@ Procedure draft:
 Some random doc:
 - On Tesseract: https://nanonets.com/blog/ocr-with-tesseract/
 - On Discord and Python bots: 
--- https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
--- https://betterprogramming.pub/coding-a-discord-bot-with-python-64da9d6cade7
+  - https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+  - https://betterprogramming.pub/coding-a-discord-bot-with-python-64da9d6cade7
 - Discord.py API: https://discordpy.readthedocs.io/en/stable/api.html
 
 
