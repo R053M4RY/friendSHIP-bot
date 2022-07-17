@@ -22,5 +22,4 @@ Some random doc:
 Dependencies:
 - Tesseract v5.1.0
 - python 3.8
-
-
+- Discord.py 1.7.3
