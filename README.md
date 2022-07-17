@@ -13,7 +13,10 @@ Procedure draft:
 
 Some random doc:
 - On Tesseract: https://nanonets.com/blog/ocr-with-tesseract/
+- On Discord and Python bots: https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
 
 Dependencies:
 - Tesseract v5.1.0
 - python 3.8
+
+
